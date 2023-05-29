@@ -1,7 +1,7 @@
 # mat_mat_optem
 
-Matrix multiplication is one of the most important modern computational kernels. In this homework we<br>
-will try to optimize this computation using the memory/cache optimization techniques we learnt in the<br>
+Matrix multiplication is one of the most important modern computational kernels. In this homework we
+will try to optimize this computation using the memory/cache optimization techniques we learnt in the
 class.<br>
 ## Instructions:
 1- In the source file cache.c you will find the conventional (unoptimized) version of matrix
